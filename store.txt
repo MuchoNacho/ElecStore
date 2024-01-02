@@ -1,0 +1,42 @@
+Store Name: Past Shop
+Revenue: 32218.00
+
+Products:
+Full Size Desktop PC with 4.0ghz CPU, 32GB RAM, 256GB SSD drive.
+Mid Size Desktop PC with 3.0ghz CPU, 16GB RAM, 2048GB HDD drive.
+Compact Desktop PC with 2.5ghz CPU, 16GB RAM, 1024GB HDD drive.
+Server Desktop PC with 4.5ghz CPU, 64GB RAM, 512GB SSD drive.
+15.1 inch Laptop PC with 3.5ghz CPU, 16GB RAM, 256GB SSD drive.
+35.1 inch Laptop PC with 4.0ghz CPU, 32GB RAM, 512GB SSD drive.
+15.1 inch Laptop PC with 3.0ghz CPU, 16GB RAM, 512GB HDD drive.
+13.1 inch Laptop PC with 2.5ghz CPU, 8GB RAM, 128GB SSD drive.
+Danby Fridge with Freezer (Stainless Steel, 250 watts)
+Mr Freeze Fridge with Freezer (Shiny Blue, 900 watts)
+Horn Pass Fridge with Freezer (Red, 111 watts)
+Discount Freezer Corporation Fridge (White, 100 watts)
+Discount Freezer Corporation Fridge (Off White, 275 watts)
+General Electric Toaster (Red, 50 watts)
+General Electric Toaster (Red, 40 watts)
+Toast-O-Max Bluetooth-Enabled Toaster Toaster with convection (Gold, 400 watts)
+
+Customers:
+Frodo who has spent $8200.00
+Purchase History:
+13.1 inch Laptop PC with 2.5ghz CPU, 8GB RAM, 128GB SSD drive. x 4
+Full Size Desktop PC with 4.0ghz CPU, 32GB RAM, 256GB SSD drive. x 5
+Galadriel who has spent $4000.00
+Purchase History:
+Full Size Desktop PC with 4.0ghz CPU, 32GB RAM, 256GB SSD drive. x 4
+Eowyn who has spent $0.00
+Tom B. who has spent $14018.00
+Purchase History:
+Toast-O-Max Bluetooth-Enabled Toaster Toaster with convection (Gold, 400 watts) x 5
+Horn Pass Fridge with Freezer (Red, 111 watts) x 1
+Full Size Desktop PC with 4.0ghz CPU, 32GB RAM, 256GB SSD drive. x 1
+Shadowfax who has spent $0.00
+Lobelia who has spent $0.00
+Bert who has spent $0.00
+William who has spent $0.00
+Fredigar who has spent $6000.00
+Purchase History:
+Server Desktop PC with 4.5ghz CPU, 64GB RAM, 512GB SSD drive. x 5
